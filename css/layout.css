@@ -22,6 +22,48 @@
   clear: both;
 }
 
+.grass {
+  margin-right: 10px;
+  float: left;
+  width: 625px
+}
+
+.archive {
+  float: left;
+  margin-left: 10px;
+  width: 315px;
+  margin-bottom: 10px;
+}
+
+.lady-bug {
+  float: left;
+  width: 305px;
+  margin: 10px 10px 10px 0px;
+}
+
+.skate {
+  float: left;
+  width: 305px;
+  margin: 10px;
+}
+
+.heel {
+  float: left;
+  width: 305px;
+  margin: 10px 0px 10px 10px;
+}
+
+
+#details {
+  display: flex;
+  flex-direction: column;
+}
+
+#details div {
+  text-align: left;
+  float: left;
+  padding-right: 120px;
+}
 /* Positioning Classes */
 
 
